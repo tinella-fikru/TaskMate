@@ -1,0 +1,7 @@
+:root {
+    --primary-clr: #501B1D;
+    --clr-text: hsl(0 0% 100%);
+    /* --clr-body-bg: hsl(0 0% 90%); */
+    --clr-body-bg: hsl(358, 50%, 21%);
+    font-family: 'Times New Roman', Times, serif;
+}
